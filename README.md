@@ -9,4 +9,4 @@ Lâm Tố Nguyên - 18200183
 
 Trần Thái Sơn - 18200221
 
-**Bài tập tuần 4 được lưu ở nhánh ChallengeWeeK4 với project là thư mục [Week-04][Nhóm-13][T7] và video mô tả được lưu ở thư mục video
+**Bài tập tuần 5 được lưu ở nhánh Challenge_WeeK5 với project là thư mục [Week-05][Nhóm-13][T7] và video mô tả được lưu ở thư mục video
