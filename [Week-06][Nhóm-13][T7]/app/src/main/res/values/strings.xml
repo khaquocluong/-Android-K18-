@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge_w6</string>
+    <string name="acction_now_playing">Now Playing</string>
+    <string name="acction_top_rating">Top Rating</string>
+</resources>

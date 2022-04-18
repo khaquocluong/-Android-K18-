@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/acction_now_playing"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="Now Playing" />
+
+    <item android:id="@+id/acction_toprating"
+        android:icon="@drawable/ic_star_rate_white_24dp"
+        android:title="Top Rating" />
+</menu>
